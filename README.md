@@ -1,5 +1,7 @@
 # Dawn-Extentions-Validator-Node
 Running Dawn Extentions Validator Node using Chromium in VPS
+For confirmed airdrop and testnet incentive reward, below is fundraising of andrena(Dawn)
+![Fundrasing](https://raw.githubusercontent.com/nicomunasatya/Dawn-Extentions-Node/main/fundrising.png)
 
 1. Install Chromium in Linux using one line code from https://github.com/nicomunasatya/Chromium-Linux
 ```
