@@ -1,5 +1,5 @@
-# Dawn-Extentions-Node-Validator
-Running Dawn Extentions Node using Chromium in VPS
+# Dawn-Extentions-Validator-Node
+Running Dawn Extentions Validator Node using Chromium in VPS
 
 1. Install Chromium in Linux using one line code from https://github.com/nicomunasatya/Chromium-Linux
 ```
